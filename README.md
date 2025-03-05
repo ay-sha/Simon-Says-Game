@@ -1,6 +1,6 @@
-# Simon-Says-Game
+# Simon Says Game
 
-Saymon Says is a fun and interactive memory game built using HTML, CSS, and JavaScript. The game challenges players to remember and repeat an increasing sequence of colors.
+Simon Says is a fun and interactive memory game built using HTML, CSS, and JavaScript. The game challenges players to remember and repeat an increasing sequence of colors.
 
 ## Features
 - Simple and intuitive user interface
@@ -24,20 +24,20 @@ Saymon Says is a fun and interactive memory game built using HTML, CSS, and Java
 - **CSS**: Styling and animations
 - **JavaScript**: Game logic and user interactions
 
+## Screenshots
 <p align="center">
  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e190d2a5-961a-43c9-8e9b-80fbe42909fd" />
   <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7f4bb374-699a-4ab7-ad26-e3a0377921f3" />
 </p>
 
-
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ay-sha/Saymon-Says-Game.git
+   git clone https://github.com/ay-sha/Simon-Says-Game.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd Saymon-Says-Game
+   cd Simon-Says-Game
    ```
 3. Open the `index.html` file in your browser.
 
@@ -48,4 +48,5 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-Enjoy playing Saymon Says and challenge your memory skills! 🎮
+Enjoy playing Simon Says and challenge your memory skills! 🎮
+
