@@ -41,12 +41,6 @@ Saymon Says is a fun and interactive memory game built using HTML, CSS, and Java
    ```
 3. Open the `index.html` file in your browser.
 
-## Future Enhancements
-- Adding difficulty levels
-- High-score tracking
-- Improved animations and sound effects
-- Mobile-friendly touch interactions
-
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
 
