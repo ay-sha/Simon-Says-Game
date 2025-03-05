@@ -45,7 +45,7 @@ function userFlash(btn){
 }
 
 function SoundEffect() {
-    let sound = new Audio('/asset/button.mp3');
+    const sound = new Audio('./asset/button.mp3');
     sound.play();
 
     setTimeout(function(){
@@ -55,7 +55,7 @@ function SoundEffect() {
 }
 
 function endSoundEffect() {
-    let sound = new Audio('/asset/end.mp3');
+    const sound = new Audio('./asset/end.mp3');
     sound.play();
 
     setTimeout(function(){
